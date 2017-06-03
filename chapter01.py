@@ -48,7 +48,7 @@ bmi = int(input())
 chudy = "niedowaga"
 normalny = "waga prawidłowa"
 gruby = "nadwaga"
-tekst = "bla"
+tekst = str()
 
 if bmi < 18.5:
     tekst = chudy
